@@ -1,0 +1,23 @@
+/* Below shows how I work on the CSS background properties*/
+body {
+	background-image: url("https://wallpapercave.com/wp/kEKoZTa.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+/*Below shows how I use Descendant Selectors in this CSS file.*/
+table tr th{
+	border:1px solid black;
+}
+table tr td{
+	border:1px solid black;
+}
+
+/*Below is how I use id Selector and color property in this CSS file.*/
+#skill{
+	background-color: #FFEBCD;
+}
+/*Below is how I use Class Selector and font property in this CSS file.*/
+.firstline {
+	font-family: 'Architects Daughter', cursive;
+}
